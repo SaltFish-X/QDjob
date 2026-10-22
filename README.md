@@ -117,13 +117,6 @@
  *  自动更新cookies来保持登录状态
  ······
 
-## 赞助
-如果你喜欢本项目，可以赞助支持：
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./picture/vx.png" alt="微信赞助" style="width: 300px; height: auto;" />
-  <img src="./picture/zfb.jpg" alt="支付宝赞助" style="width: 300px; height: auto;" />
-</div>
-
 ## Contact
 [点此加入Telegram群组](https://t.me/+6xMW_7YK0o1jMDE1)  
 联系邮箱：janiquiz@163.com
